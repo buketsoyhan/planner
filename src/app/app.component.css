@@ -1,0 +1,19 @@
+.mc {
+    margin-top: 300px;
+    margin-left: 300px;
+}
+.navbar{
+    background-color: rgb(78, 78, 78);
+    align-items: center;
+    padding-left: 2rem;
+    
+}
+.navbar h3{
+    color: white;
+}
+.navbar-info{
+    display: flex;
+    justify-content:space-between; 
+    padding: 1rem 2rem;
+}
+
